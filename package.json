@@ -2,9 +2,10 @@
   "name": "weather-app",
   "version": "1.0.0",
   "description": "weather App",
-  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[app.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "engines": {"node": "16.16.0 "},
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "nodemon": "^2.0.19",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "brit_teck",
