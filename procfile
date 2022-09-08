@@ -1,1 +1,1 @@
-web: node app.jsgi
+web: node app.js
