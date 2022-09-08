@@ -5,7 +5,7 @@ const app = express();
 
 
 // import weatherData function
-const weatherData = require('../utils/weatherData');
+const weatherData = require('./utils/weatherData');
 
 // Set up port
 const port = process.env.PORT || 5000
